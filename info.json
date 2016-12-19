@@ -1,0 +1,20 @@
+{
+    "name" : "Prometheus User Submitted Content",
+    "slug" : "prometheus-user-submitted-content",
+    "homepage" : "https://codecanyon.net/user/kisded/portfolio",
+    "download_url" : "https://rawgit.com/sfatfarma/prometheus/master/prometheus-user-submitted-content.zip",
+    
+    "version" : "1.0",
+    "requires" : "2.7",
+    "tested" : "4.7",
+    "last_updated" : "2016-12-30",
+    
+    "author" : "kisded",
+    "author_homepage" : "https://codecanyon.net/user/kisded/portfolio",
+    
+    "sections" : 
+    {
+        "description" : "<p>This plugin will give your users the power to publish posts on your website.</p>",
+        "changelog" : "<strong>Version 1.0 Release Date 2016-12-30</strong> <ul> <li>First version released!</li> </ul>"
+    }
+}
